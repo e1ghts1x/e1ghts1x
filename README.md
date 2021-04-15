@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e1ghts1x, or just Emanuel.
 - 🌎 I'm From Brazil, but i aim to migrate to Canada or Italy.
 - 👀 I’m interested in learn more and more.
-- 🌱 I’m currently learning system analysis (my first graduation).
+- 🌱 I’m currently learning system development and analysis (my first graduation).
 - 💞️ I’m looking to collaborate on any privacy focused project.
 
 <!---
