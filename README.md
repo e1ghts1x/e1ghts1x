@@ -3,8 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femanuel-klinke%2F)
 
 
-Hi, my name is Emanuel, 21 y.o and currently living in Brazil 🇧🇷
-Graduated in Systems Analysis and Development at FIEL and currently working at Caterpillar Inc.
+Hi, my name is Emanuel, 21 y.o and currently living in Brazil 🇧🇷<br>
+Graduated in Systems Analysis and Development at FIEL and currently working at Caterpillar Inc.<br>
 Passionate about any topic regarding IT and very lazy for manual work (I guess this comes from my SySAdmin soul 😅)
 
 
