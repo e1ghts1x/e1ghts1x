@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5F70C&background=FFFFFF00&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femanuel-klinke%2F)
+![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femanuel-klinke%2F)
 
 
 Hi, my name is Emanuel, 21 y.o and currently living in Brazil 🇧🇷<br>
